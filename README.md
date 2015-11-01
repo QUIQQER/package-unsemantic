@@ -43,3 +43,9 @@ MIT
 
 Entwickler
 --------
+
+Smarty Nutzung:
+
+```
+{unsemantic}
+```
