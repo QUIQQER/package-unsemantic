@@ -13,7 +13,6 @@ use QUI;
  */
 class EventHandler
 {
-
     /**
      * Event : on smarty init
      * @param \Smarty $Smarty - \Smarty
@@ -41,7 +40,7 @@ class EventHandler
      */
     public static function unsemantic($params, $smarty)
     {
-        return '<link href="'. URL_OPT_DIR .'bin/unsemantic/assets/stylesheets/unsemantic-grid-responsive.css"
+        return '<link href="' . URL_OPT_DIR . 'bin/unsemantic/assets/stylesheets/unsemantic-grid-responsive.css"
           rel="stylesheet"
           type="text/css"
                />';
