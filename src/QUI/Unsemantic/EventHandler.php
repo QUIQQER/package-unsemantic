@@ -26,7 +26,7 @@ class EventHandler
             $Smarty->registerPlugin(
                 "function",
                 "unsemantic",
-                "\QUI\Unsemantic\EventHandler::unsemantic"
+                "\\QUI\\Unsemantic\\EventHandler::unsemantic"
             );
         }
     }
