@@ -44,7 +44,7 @@ class EventHandler
           rel="stylesheet"
           type="text/css"
                />
-               <link href="' . URL_OPT_DIR . 'quiqqer/unsemantic/bin/cutstom.css"
+               <link href="' . URL_OPT_DIR . 'quiqqer/unsemantic/bin/custom.css"
           rel="stylesheet"
           type="text/css" />';
     }
