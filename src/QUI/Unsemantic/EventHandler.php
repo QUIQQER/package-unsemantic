@@ -37,12 +37,15 @@ class EventHandler
      * @param array $params - function parameter
      * @param \Smarty $smarty - \Smarty
      * @return array|String
-     */
+    t */
     public static function unsemantic($params, $smarty)
     {
         return '<link href="' . URL_OPT_DIR . 'bin/unsemantic/assets/stylesheets/unsemantic-grid-responsive.css"
           rel="stylesheet"
           type="text/css"
-               />';
+               />
+               <link href="' . URL_OPT_DIR . 'quiqqer/unsemantic/bin/cutstom.css"
+          rel="stylesheet"
+          type="text/css" />';
     }
 }
