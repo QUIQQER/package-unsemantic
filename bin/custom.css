@@ -6,6 +6,7 @@
 }
 
 .grid-children-container {
-    margin: 0 -10px;
+    position: relative;
+    left: -10px;
     width: calc(100% + 20px);
 }
