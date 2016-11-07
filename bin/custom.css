@@ -1,0 +1,12 @@
+
+.grid-children {
+    overflow: hidden;
+    padding-left:0;
+    padding-right:0;
+}
+
+.grid-children-container {
+    position: relative;
+    left: -10px;
+    width: calc(100% + 20px);
+}
