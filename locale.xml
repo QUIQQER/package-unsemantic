@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locales>
+    <groups name="quiqqer/unsemantic" datatype="php,js">
+        <locale name="package.title">
+            <de><![CDATA[QUIQQER - Unsemantic]]></de>
+            <en><![CDATA[QUIQQER - Unsemantic]]></en>
+        </locale>
+        <locale name="package.description">
+            <de><![CDATA[Integriert das CSS Un•se•man•tic Framework]]></de>
+            <en><![CDATA[Integrates the CSS Un•se•man•tic framework]]></en>
+        </locale>
+    </groups>
+</locales>
