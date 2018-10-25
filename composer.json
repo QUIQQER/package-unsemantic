@@ -1,8 +1,8 @@
 {
   "name": "quiqqer\/unsemantic",
   "type": "quiqqer-plugin",
-  "description": "",
   "version": "dev-master",
+  "description": "Integrates the CSS Un•se•man•tic framework",
   "license": "MIT",
   "authors": [
     {
