@@ -3,46 +3,49 @@
 Unsemantic for QUIQQER
 ========
 
-Stellt das Unsemantic CSS Framework für QUIQQER zur Verfügung.
-Einfaches Einbinden ist dadurch möglich.
+Integrates the Unsemantic CSS Framework into QUIQQER.
+Makes using Unsemantic in your QUIQQER projects easy.
 
 
-Paketname:
+Package name:
 
     quiqqer/unsemantic
 
 
-Features (Funktionen)
+Features
 --------
 
 - CSS Unsemantic Framework
 
+
 Installation
 ------------
 
-Der Paketname ist: quiqqer/unsemantic
+The package name is: `quiqqer/unsemantic`
 
 
-Mitwirken
+Contribute
 ----------
 
+- Project: https://dev.quiqqer.com/quiqqer/package-unsemantic
 - Issue Tracker: https://dev.quiqqer.com/quiqqer/package-unsemantic/issues
-- Source Code: 
+- Source Code: https://dev.quiqqer.com/quiqqer/package-unsemantic/tree/master
 
 
 Support
 -------
 
-Falls Sie ein Fehler gefunden haben, oder Verbesserungen wünschen,
-dann können Sie gerne an support@pcsg.de eine E-Mail schreiben.
+If you found any flaws, have any wishes or suggestions you can send an email
+to [support@pcsg.de](mailto:support@pcsg.de) to inform us about your concerns. 
+We will try to respond to your request and forward it to the responsible developer.
 
 
-Lizenz
+License
 -------
 
 MIT
 
-Entwickler
+Usage
 --------
 
 Smarty Nutzung:
