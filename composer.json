@@ -1,29 +1,28 @@
 {
-  "name": "quiqqer\/unsemantic",
-  "type": "quiqqer-plugin",
-  "version": "dev-master",
-  "description": "Integrates the CSS Un•se•man•tic framework",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Henning Leutz",
-      "email": "leutz@pcsg.de",
-      "homepage": "http:\/\/www.pcsg.de",
-      "role": "Developer"
+    "name": "quiqqer\/unsemantic",
+    "type": "quiqqer-plugin",
+    "description": "Integrates the CSS Un\u2022se\u2022man\u2022tic framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henning Leutz",
+            "email": "leutz@pcsg.de",
+            "homepage": "http:\/\/www.pcsg.de",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@pcsg.de",
+        "url": "http:\/\/www.pcsg.de"
+    },
+    "require": {
+        "php": ">=5.3",
+        "quiqqer\/quiqqer": "*@dev",
+        "npm-asset\/unsemantic": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "QUI\\Unsemantic\\": "src\/QUI\/Unsemantic"
+        }
     }
-  ],
-  "support": {
-    "email": "support@pcsg.de",
-    "url": "http:\/\/www.pcsg.de"
-  },
-  "require": {
-    "php": ">=5.3",
-    "quiqqer\/quiqqer": "*@dev",
-    "npm-asset\/unsemantic": "1.*"
-  },
-  "autoload": {
-    "psr-4": {
-      "QUI\\Unsemantic\\": "src\/QUI\/Unsemantic"
-    }
-  }
 }
